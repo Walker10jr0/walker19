@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Fox">
+    <display-name lang="es">Fox</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Fox Movies">
+    <display-name lang="es">Fox Movies</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Amc">
+    <display-name lang="es">Amc</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Hbo">
+    <display-name lang="es">Hbo</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Tnt">
+    <display-name lang="es">Tnt</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="es">Discovery</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="es">History</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="es">Record</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Sbt">
+    <display-name lang="es">Sbt</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="es">Band</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+</tv>
