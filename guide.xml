@@ -4,4 +4,20 @@
     <display-name lang="es">Fox</display-name>
     <url>http://www.mi.tv</url>
   </channel>
+  <channel id="RECORD">
+    <display-name lang="pt">RECORD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
 </tv>
