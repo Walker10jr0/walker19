@@ -1,80 +1,349 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="SBT">
-    <display-name lang="pt">SBT</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
   <channel id="RECORD">
     <display-name lang="pt">RECORD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Discovery">
-    <display-name lang="es">Discovery</display-name>
-    <url>http://www.mi.tv</url>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
-  <programme start="20190515010000 -0300" stop="20190515020000 -0300" channel="SBT">
-    <title lang="pt">The Noite com Danilo Gentili</title>
-    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190519003000 -0300" stop="20190519011500 -0300" channel="RECORD">
+    <title lang="pt">Chicago P.D.: Proximidade Emocional</title>
+    <desc lang="pt">A Inteligência trabalha para achar o culpado por trás do incêndio no armazém, que deixou a filha de Olinsky lutando por sua vida(n)</desc>
     <credits>
-      <director>João Mesquita</director>
-      <actor>Léo Lins</actor>
-      <actor>Murilo Couto</actor>
-      <actor>Juliana Oliveira</actor>
-      <actor>Ultraje a Rigor</actor>
+      <director>Reza Tabrizi</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Brian Tee</actor>
+      <actor>Amy Morton</actor>
+      <actor>Li Jun Li</actor>
     </credits>
-    <date>2014</date>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E16</episode-num>
     <rating system="BR">
-      <value>9+</value>
+      <value>13+</value>
     </rating>
   </programme>
-  <programme start="20190515020000 -0300" stop="20190515023000 -0300" channel="SBT">
-    <title lang="pt">Roda a Roda Jequiti</title>
-    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
-    <credits>
-      <director>Silvia Abravanel</director>
-      <actor>Patrícia Abravanel</actor>
-    </credits>
-    <date>2013</date>
+  <programme start="20190519011500 -0300" stop="20190519021500 -0300" channel="RECORD">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD)(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515023000 -0300" stop="20190515030000 -0300" channel="SBT">
-    <title lang="pt">Operação Mesquita</title>
-    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas, os passantes fazem às vezes de auditório(n)</desc>
+  <programme start="20190519021500 -0300" stop="20190519031500 -0300" channel="RECORD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519031500 -0300" stop="20190519060000 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519060000 -0300" stop="20190519070000 -0300" channel="RECORD">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190519070000 -0300" stop="20190519080000 -0300" channel="RECORD">
+    <title lang="pt">Santo Culto em seu Lar</title>
+    <desc lang="pt">Pregações abordando um tema específico, discutindo sempre em base de texto bíblico(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190519080000 -0300" stop="20190519090000 -0300" channel="RECORD">
+    <title lang="pt">Programa do Templo</title>
+    <desc lang="pt">Programa religioso, inspirado em fundamentações da Igreja Universal do Reino de Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519090000 -0300" stop="20190519100000 -0300" channel="RECORD">
+    <title lang="pt">Record Kids - Pica Pau</title>
+    <desc lang="pt">As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519100000 -0300" stop="20190519110000 -0300" channel="RECORD">
+    <title lang="pt">Record Kids - Todo Mundo Odeia o Chris</title>
+    <desc lang="pt">As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190519110000 -0300" stop="20190519124500 -0300" channel="RECORD">
+    <title lang="pt">Record Kids - Todo Mundo Odeia o Chris</title>
+    <desc lang="pt">As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190519124500 -0300" stop="20190519154500 -0300" channel="RECORD">
+    <title lang="pt">Domingo Show</title>
+    <desc lang="pt">Domingo Show é uma mistura de jornalismo e entretenimento. Você pode acompanhar as principais notícias do Brasil, além de conhecer histórias emocionantes de superação e personagens curiosos(n)</desc>
+    <credits>
+      <director>Rafael Perantunes</director>
+      <actor>Geraldo Luis</actor>
+    </credits>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190519154500 -0300" stop="20190519194500 -0300" channel="RECORD">
+    <title lang="pt">Hora do Faro</title>
+    <desc lang="pt">Faro recebe convidados que superaram muitas dificuldades para dar carinho e atenção àqueles que não tinham e, ainda, um casal que se adora, mas precisa superar algumas barreiras para ficar junto(n)</desc>
+    <credits>
+      <actor>Rodrigo Faro</actor>
+    </credits>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190519194500 -0300" stop="20190519231500 -0300" channel="RECORD">
+    <title lang="pt">Domingo Espetacular</title>
+    <desc lang="pt">Em formato de revista eletrônica semanal, o programa apresenta um panorama geral dos principais acontecimentos que marcaram a semana, além de reportagens exclusivas(n)</desc>
+    <credits>
+      <actor>Paulo Henrique Amorim</actor>
+      <actor>Janine Borba e Thalita Oliveira</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519004000 -0300" stop="20190519030000 -0300" channel="BAND">
+    <title lang="pt">O Mais Rápido Game Show</title>
+    <desc lang="pt">Programa interativo com distribuição de prêmios(n)</desc>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20190515030000 -0300" stop="20190515060000 -0300" channel="SBT">
+  <programme start="20190519030000 -0300" stop="20190519044500 -0300" channel="BAND">
+    <title lang="pt">Cinema na Madrugada: Versos de Um Crime</title>
+    <desc lang="pt">Em 1944, três expoentes da literatura beatnik, os colegas Allen Ginsberg, Jack Kerouac e Lucien Carr, exploram ideias ousadas, que desafiam o seu tempo(n)</desc>
+    <credits>
+      <director>John Krokidas</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>David Cross</actor>
+      <actor>Michael C. Hall</actor>
+      <actor>Dane Dehaan</actor>
+      <actor>Jack Huston</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190519044500 -0300" stop="20190519053000 -0300" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">As melhores pegadinhas da tv, no formato clássico de câmeras escondidas, brincando com as pessoas que passam nas ruas, praças e centros comerciais(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190519053000 -0300" stop="20190519060000 -0300" channel="BAND">
+    <title lang="pt">30 Minutos</title>
+    <desc lang="pt">As reportagens especiais e seriadas, exibidas no jornais da Band, em uma única edição(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519060000 -0300" stop="20190519080000 -0300" channel="BAND">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519080000 -0300" stop="20190519083000 -0300" channel="BAND">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <desc lang="pt">Unindo informação e entretenimento, o programa leva os telespectadores para os lugares mais incríveis do planeta de maneira descontraída, com dicas hospedagens, passeios e gastronomia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519083000 -0300" stop="20190519090000 -0300" channel="BAND">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Programa Local(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519090000 -0300" stop="20190519093000 -0300" channel="BAND">
+    <title lang="pt">Papo de Boleiro</title>
+    <desc lang="pt">Revista semanal sobre todos os esportes, com reportagens, entrevistas, quadros, colunas , pesquisas e bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519093000 -0300" stop="20190519100000 -0300" channel="BAND">
+    <title lang="pt">Gol - O Grande Momento do Futebol</title>
+    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519100000 -0300" stop="20190519103000 -0300" channel="BAND">
+    <title lang="pt">Gol - O Grande Momento do Futebol</title>
+    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519103000 -0300" stop="20190519110000 -0300" channel="BAND">
+    <title lang="pt">Pé na Estrada</title>
+    <desc lang="pt">O dia a dia de quem vive na estrada. Informações, opiniões e dicas para os caminhoneiros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519110000 -0300" stop="20190519120000 -0300" channel="BAND">
+    <title lang="pt">Mundo Animado</title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519120000 -0300" stop="20190519134500 -0300" channel="BAND">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Revista semanal de todos os esportes, com reportagens, entrevistas, quadros, colunas , pesquisas e bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519134500 -0300" stop="20190519160000 -0300" channel="BAND">
+    <title lang="pt">Campeonato Brasileiro Feminino A1/A2</title>
+    <desc lang="pt">Elas vestem as chuteiras e entram em campo em busca da glória. É o maior campeonato feminino entre clubes do país(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519160000 -0300" stop="20190519180000 -0300" channel="BAND">
+    <title lang="pt">Cine Band: Meu Querido Vira-Lata</title>
+    <desc lang="pt">Danny é um órfão que um dia encontra um cachorro perdido na rua e descobre se tratar do bicho de estimação do Presidente dos Estados Unidos(n)</desc>
+    <credits>
+      <director>Bryan Stoller</director>
+      <actor>Eric Roberts</actor>
+      <actor>Linda Bella</actor>
+      <actor>Eliza Roberts</actor>
+      <actor>John-Paul Howard</actor>
+      <actor>Little Bear</actor>
+      <actor>Tommy 'Tiny' Lister</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519180000 -0300" stop="20190519200000 -0300" channel="BAND">
+    <title lang="pt">3º Tempo</title>
+    <desc lang="pt">Um dos mais tradicionais programas esportivos do domingo na TV. Com reportagens nos gramados, nos vestiários e muita opinião sobre os lances polêmicos e o rumo dos campeonatos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519200000 -0300" stop="20190519220000 -0300" channel="BAND">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190519220000 -0300" stop="20190520000000 -0300" channel="BAND">
+    <title lang="pt">Cine Band Clássicos: A Primeira Noite de um Homem</title>
+    <desc lang="pt">Benjamim acaba de se formar na universidade e, ao voltar para casa nas férias, é seduzido pela Sra. Robinson, uma atraente mulher de meia-idade, amiga de seus pais(n)</desc>
+    <credits>
+      <director>Mike Nichols</director>
+      <actor>Anne Bancroft</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Katharine Ross</actor>
+      <actor>Murray Hamilton</actor>
+      <actor>William Daniels</actor>
+      <actor>Elizabeth Wilson</actor>
+      <actor>Buck Henry</actor>
+      <actor>Brian Avery</actor>
+      <actor>Walter Brooke</actor>
+      <actor>Norman Fell</actor>
+      <actor>Alice Ghostley</actor>
+    </credits>
+    <date>1967</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190519000000 -0300" stop="20190519023000 -0300" channel="SBT">
+    <title lang="pt">Sobrenatural</title>
+    <desc lang="pt">Histórias assustadoras sobre dois irmãos marcados por um trágico e inexplicável acontecimento de infância. Eles terão de embarcar numa odisséia em busca do pai, que está desaparecido(n)</desc>
+    <credits>
+      <director>Eric Kripke</director>
+      <director>Kim Manners</director>
+      <director>Phil Sgriccia</director>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190519023000 -0300" stop="20190519060000 -0300" channel="SBT">
     <title lang="pt">SBT Notícias</title>
     <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515060000 -0300" stop="20190515103000 -0300" channel="SBT">
-    <title lang="pt">Primeiro Impacto</title>
-    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
-    <date>2016</date>
+  <programme start="20190519060000 -0300" stop="20190519070000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515103000 -0300" stop="20190515141500 -0300" channel="SBT">
-    <title lang="pt">Bom Dia &amp; Cia</title>
-    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
-    <credits>
-      <director>Silvia Abravanel</director>
-      <actor>Ana Julia</actor>
-      <actor>Matheus Ueta</actor>
-    </credits>
-    <date>2013</date>
+  <programme start="20190519070000 -0300" stop="20190519073000 -0300" channel="SBT">
+    <title lang="pt">Brasil Caminhoneiro</title>
+    <desc lang="pt">Focado na prestação de serviços, o programa tem como pilares básicos: responsabilidade social e segurança nas estradas. Além de fazer reportagens especiais exclusivas por todo o Brasil(n)</desc>
+    <date>2009</date>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515141500 -0300" stop="20190515150000 -0300" channel="SBT">
+  <programme start="20190519073000 -0300" stop="20190519081500 -0300" channel="SBT">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">O Rubinho Barrichello vem com tudo para o SBT. O ex-piloto de Fórmula 1 vai comandar o programa Acelerados. Emoção, adrenalina e, claro, novidades do mercado automobilístico brasileiro vão fazer parte das suas manhãs de domingo(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519081500 -0300" stop="20190519090000 -0300" channel="SBT">
+    <title lang="pt">Sempre Bem</title>
+    <desc lang="pt">Produzido por uma equipe apaixonada por levar mais qualidade de vida, o Sempre Bem traz soluções para o seu dia a dia, entrevistas com profissionais conceituados e matérias feitas com um único objetivo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519090000 -0300" stop="20190519110000 -0300" channel="SBT">
     <title lang="pt">Chaves</title>
     <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão(n)</desc>
     <credits>
@@ -92,66 +361,31 @@
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515150000 -0300" stop="20190515160000 -0300" channel="SBT">
-    <title lang="pt">Fofocalizando</title>
-    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
-    <date>2016</date>
+  <programme start="20190519110000 -0300" stop="20190519150000 -0300" channel="SBT">
+    <title lang="pt">Domingo Legal</title>
+    <desc lang="pt">Apresentado por Celso Portioli, o programa conta com a presença de celebridades, brincadeiras e notícias de última hora, além de reportagens exclusivas(n)</desc>
+    <credits>
+      <director>Roberto Manzoni</director>
+      <actor>Celso Portiolli</actor>
+    </credits>
+    <date>2012</date>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515160000 -0300" stop="20190515171500 -0300" channel="SBT">
-    <title lang="pt">Casos de Família</title>
-    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+  <programme start="20190519150000 -0300" stop="20190519190000 -0300" channel="SBT">
+    <title lang="pt">Eliana</title>
+    <desc lang="pt">O programa Eliana tem como foco o público brasileiro, é uma atração para a família reunida, que busca lazer e entretenimento na TV(n)</desc>
     <credits>
-      <director>Rafael Bello</director>
-      <director>Melissa Ribeiro</director>
-      <director>Raul Garin</director>
+      <director>Ariel Jacobowitz</director>
+      <actor>Eliana Michaelichen</actor>
     </credits>
     <date>2009</date>
     <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190515171500 -0300" stop="20190515183000 -0300" channel="SBT">
-    <title lang="pt">A Que Não Podia Amar</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <credits>
-      <director>Salvador Garcini</director>
-    </credits>
-    <date>2011</date>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20190515183000 -0300" stop="20190515194500 -0300" channel="SBT">
-    <title lang="pt">A Dona</title>
-    <desc lang="pt">Valentina é uma jovem que tem tudo para ser feliz: beleza, fortuna e um noivo, a quem ama intensamente. Vive na mansão deixada por seus pais na companhia de sua tia, Isabel, e sua prima, Ivana, que vive corroída pela inveja(n)</desc>
-    <credits>
-      <director>Salvador Garcini</director>
-      <actor>Fernando Colunga</actor>
-      <actor>Gabriela Spanic</actor>
-      <actor>David Zepeda</actor>
-      <actor>Jacqueline Andere</actor>
-    </credits>
-    <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515194500 -0300" stop="20190515202500 -0300" channel="SBT">
-    <title lang="pt">SBT Brasil</title>
-    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
-    <credits>
-      <director>Marcelo Parada</director>
-      <actor>Rachel Sheherazade</actor>
-      <actor>Joseval Peixoto</actor>
-    </credits>
-    <date>2005</date>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190515202500 -0300" stop="20190515205000 -0300" channel="SBT">
+  <programme start="20190519190000 -0300" stop="20190519194500 -0300" channel="SBT">
     <title lang="pt">Roda a Roda Jequiti</title>
     <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
     <credits>
@@ -163,226 +397,397 @@
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515205000 -0300" stop="20190515213000 -0300" channel="SBT">
-    <title lang="pt">As Aventuras de Poliana</title>
-    <desc lang="pt">Indisponível(n)</desc>
+  <programme start="20190519194500 -0300" stop="20190519200000 -0300" channel="SBT">
+    <title lang="pt">Sorteio da Tele Sena</title>
+    <desc lang="pt">A Tele Sena é um título de capitalização de pagamento único, lançado em novembro de 1991 pela Liderança Capitalização S/A e com sorteios apresentados semanalmente por Silvio Santos(n)</desc>
+    <date>1991</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519000000 -0300" stop="20190519000500 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+    <desc lang="pt">O que foi destaque ao longo do dia e o que será manchete amanhã(n)</desc>
     <credits>
-      <director>Reynaldo da Costa Boury</director>
-      <actor>Sophia Valverde</actor>
-      <actor>Dalton Vigh</actor>
-      <actor>Milena Toscano</actor>
-      <actor>Larissa Manoela</actor>
+      <actor>Erick Bang</actor>
     </credits>
-    <date>2018</date>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515213000 -0300" stop="20190515221500 -0300" channel="SBT">
-    <title lang="pt">Cúmplices de um Resgate</title>
-    <desc lang="pt">A irmandade é algo muito maior do que uma questão de laços de sangue. Em(n)</desc>
-    <credits>
-      <director>Socorro González</director>
-    </credits>
-    <date>2002</date>
+  <programme start="20190519000500 -0300" stop="20190519003000 -0300" channel="Globo">
+    <title lang="pt">Roberto D'avila</title>
+    <desc lang="pt">Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515221500 -0300" stop="20190515224500 -0300" channel="SBT">
-    <title lang="pt">Jogo das Fichas</title>
-    <desc lang="pt">Indisponível(n)</desc>
+  <programme start="20190519003000 -0300" stop="20190519010000 -0300" channel="Globo">
+    <title lang="pt">Globonews Em Movimento</title>
+    <desc lang="pt">A série EM MOVIMENTO tem 12 episódios semanais e estreia em 7 de agosto. A GloboNews quer discutir problemas e soluções na questão da mobilidade urbana em 7 capitais do Brasil e em Londres, Nova York e Tóquio(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515001500 -0300" stop="20190515011500 -0300" channel="RECORD">
-    <title lang="pt">Chicago Fire</title>
-    <desc lang="pt">Drama de um médico em um ambiente bastante inusitado: o corpo de bombeiros. A trama acompanhará os homens e mulheres que trabalham no departamento de bombeiros da cidade de Chicago(n)</desc>
-    <credits>
-      <actor>Taylor Kinney</actor>
-      <actor>Mo Gallini</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Teri Reeves</actor>
-    </credits>
-    <date>2012</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190515011500 -0300" stop="20190515021500 -0300" channel="RECORD">
-    <title lang="pt">Inteligência e Fé</title>
-    <desc lang="pt">Comandado por Renato Cardoso(n)</desc>
+  <programme start="20190519010000 -0300" stop="20190519010500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515021500 -0300" stop="20190515031500 -0300" channel="RECORD">
-    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+  <programme start="20190519010500 -0300" stop="20190519013000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Política</title>
     <desc lang="pt">Indisponível(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515031500 -0300" stop="20190515060000 -0300" channel="RECORD">
-    <title lang="pt">Programação IURD</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+  <programme start="20190519013000 -0300" stop="20190519020000 -0300" channel="Globo">
+    <title lang="pt">Mundo S/A</title>
+    <desc lang="pt">Tendências de mercado, startups, grandes marcas, iniciativas tradicionais e inovadoras, soluções inesperadas, ousadias de empresários que estão sempre à frente(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515060000 -0300" stop="20190515063000 -0300" channel="RECORD">
-    <title lang="pt">Balanço Geral Manhã SP</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+  <programme start="20190519020000 -0300" stop="20190519020500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515063000 -0300" stop="20190515070000 -0300" channel="RECORD">
-    <title lang="pt">Balanço Geral Manhã</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+  <programme start="20190519020500 -0300" stop="20190519023000 -0300" channel="Globo">
+    <title lang="pt">Arquivo N</title>
+    <desc lang="pt">Um trabalho minucioso de pesquisa sobre fatos e pessoas que marcaram a história num programa com imagens de arquivo inesquecíveis e emocionantes(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515070000 -0300" stop="20190515085500 -0300" channel="RECORD">
-    <title lang="pt">SP no Ar</title>
-    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+  <programme start="20190519023000 -0300" stop="20190519030000 -0300" channel="Globo">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
+    <desc lang="pt">Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515085500 -0300" stop="20190515100000 -0300" channel="RECORD">
-    <title lang="pt">Fala Brasil</title>
-    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo(n)</desc>
+  <programme start="20190519030000 -0300" stop="20190519030500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515100000 -0300" stop="20190515120000 -0300" channel="RECORD">
-    <title lang="pt">Hoje em Dia</title>
-    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+  <programme start="20190519030500 -0300" stop="20190519040000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Painel</title>
+    <desc lang="pt">O programa recebe filósofos, cientistas políticos, diplomatas, empresários e sociólogos e aprofunda os temas de relevância da semana(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515120000 -0300" stop="20190515150000 -0300" channel="RECORD">
-    <title lang="pt">Balanço Geral SP</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+  <programme start="20190519040000 -0300" stop="20190519040500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515150000 -0300" stop="20190515154500 -0300" channel="RECORD">
-    <title lang="pt">Bela, a Feia</title>
-    <desc lang="pt">Bela, a Feia conta a história de Anabela Palhares, uma mulher modesta de 26 anos. A moça não tem muitos amigos, somente Luzia e Hortência, com quem compartilha seus sentimentos(n)</desc>
+  <programme start="20190519040500 -0300" stop="20190519043000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Internacional</title>
+    <desc lang="pt">Uma conversa sobre os principais assuntos internacionais da semana, irreverente, mas sempre com muita informação(n)</desc>
+    <credits>
+      <actor>Dony De Nuccio</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519043000 -0300" stop="20190519050000 -0300" channel="Globo">
+    <title lang="pt">Roberto D'avila</title>
+    <desc lang="pt">Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519050000 -0300" stop="20190519060000 -0300" channel="Globo">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519060000 -0300" stop="20190519060500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519060500 -0300" stop="20190519063000 -0300" channel="Globo">
+    <title lang="pt">Arquivo N</title>
+    <desc lang="pt">Um trabalho minucioso de pesquisa sobre fatos e pessoas que marcaram a história num programa com imagens de arquivo inesquecíveis e emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519063000 -0300" stop="20190519080000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Documentário</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519080000 -0300" stop="20190519083000 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição das 08h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519083000 -0300" stop="20190519090000 -0300" channel="Globo">
+    <title lang="pt">Pequenas Empresas, Grandes Negócios</title>
+    <desc lang="pt">O programa Pequenas Empresas, Grandes Negócios transmite ideias e alternativas de sobrevivência para pessoas que desejam desenvolver uma atividade própria(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519090000 -0300" stop="20190519090500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519090500 -0300" stop="20190519100000 -0300" channel="Globo">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519100000 -0300" stop="20190519103000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519103000 -0300" stop="20190519110000 -0300" channel="Globo">
+    <title lang="pt">Fatos e Versões</title>
+    <desc lang="pt">Cristiana Lôbo recebe, no estúdio, jornalistas renomados de jornais e revistas para detalhar os principais temas da semana em Brasília, revelando bastidores na política, na economia e no Judiciário(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519110000 -0300" stop="20190519110500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519110500 -0300" stop="20190519120000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Painel</title>
+    <desc lang="pt">O programa recebe filósofos, cientistas políticos, diplomatas, empresários e sociólogos e aprofunda os temas de relevância da semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519120000 -0300" stop="20190519123000 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição da Meio-Dia - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519123000 -0300" stop="20190519130000 -0300" channel="Globo">
+    <title lang="pt">Roberto D'avila</title>
+    <desc lang="pt">Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519130000 -0300" stop="20190519130500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519130500 -0300" stop="20190519133000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Internacional</title>
+    <desc lang="pt">Uma conversa sobre os principais assuntos internacionais da semana, irreverente, mas sempre com muita informação(n)</desc>
+    <credits>
+      <actor>Dony De Nuccio</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519133000 -0300" stop="20190519140000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Política</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519140000 -0300" stop="20190519141000 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519141000 -0300" stop="20190519150000 -0300" channel="Globo">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Ou0027Conversa com Bial' vai reunir, em um só lugar, assuntos que possam ser relevantes ao espectador independentemente da forma como eles serão apresentados(n)</desc>
+    <credits>
+      <director>Ingo Ostrovski</director>
+      <actor>Pedro Bial</actor>
+    </credits>
+    <date>2019</date>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20190515154500 -0300" stop="20190515164500 -0300" channel="RECORD">
-    <title lang="pt">Caminhos do Coração</title>
-    <desc lang="pt">Em Caminhos do Coração, mutações perigosas se espalham pela sociedade, transformando homens e mulheres em feras, vampiros, lobisomens, serpentes, que atacam nas ruas de São Paulo, disseminando o mal, como uma epidemia(n)</desc>
-    <credits>
-      <director>Alexandre Avancini</director>
-      <actor>Bianca Rinaldi</actor>
-      <actor>Leonardo Vieira</actor>
-      <actor>Sérgio Malheiros</actor>
-      <actor>Nanda Ziegler</actor>
-      <actor>Maitê Piragibe</actor>
-      <actor>Taumaturgo Ferreira</actor>
-      <actor>Thaís Fersoza</actor>
-      <actor>Fernando Pavão</actor>
-      <actor>Felipe Folgosi</actor>
-      <actor>Mirian Freeland</actor>
-      <actor>Petrônio Gontijo</actor>
-      <actor>Nathália Guimarães</actor>
-      <actor>Tuca Andrada</actor>
-      <actor>Théo Becker</actor>
-      <actor>Babi Xavier</actor>
-    </credits>
-    <date>2007</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190515164500 -0300" stop="20190515180000 -0300" channel="RECORD">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+  <programme start="20190519150000 -0300" stop="20190519153000 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição das 15h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515180000 -0300" stop="20190515185000 -0300" channel="RECORD">
-    <title lang="pt">Cidade Alerta Local</title>
-    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190515185000 -0300" stop="20190515195000 -0300" channel="RECORD">
-    <title lang="pt">Cidade Alerta Local</title>
-    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190515195000 -0300" stop="20190515204500 -0300" channel="RECORD">
-    <title lang="pt">A Terra Prometida</title>
-    <desc lang="pt">Após a morte de Moisés, Josué é o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Mas não é tarefa fácil conduzir um povo ao seu destino(n)</desc>
+  <programme start="20190519153000 -0300" stop="20190519160000 -0300" channel="Globo">
+    <title lang="pt">Em Foco Com Andréia Sadi</title>
+    <desc lang="pt">A repórter entrevista personagens que estão no centro do poder sobre as histórias que vão além do dia-a-dia do noticiário. Um espaço aberto para contar o lado b de quem está em evidência no cenário político do país(n)</desc>
     <credits>
-      <actor>Sidney Sampaio</actor>
-      <actor>Alexandre Slaviero</actor>
-      <actor>Altair Rodrigues</actor>
-      <actor>Ana Barroso</actor>
-      <actor>Andre Ramiro</actor>
-      <actor>Amando Amaral</actor>
-      <actor>Bernardo Velasco</actor>
-      <actor>Beth Goulart</actor>
-      <actor>Brenda Haddad</actor>
-    </credits>
-    <date>2016</date>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20190515204500 -0300" stop="20190515214500 -0300" channel="RECORD">
-    <title lang="pt">Jezabel</title>
-    <desc lang="pt">Jezabel conta a história de uma princesa fenícia que usa sua beleza e seu poder de sedução para conquistar tudo o que deseja(n)</desc>
-    <credits>
-      <director>Alexandre Avancini</director>
-      <actor>Lidi Lisboa</actor>
-      <actor>André Bankoff</actor>
-      <actor>Iano Salomão</actor>
-      <actor>Adriana Birolli</actor>
-      <actor>Juan Alba</actor>
-      <actor>Timoteo Heiderick</actor>
-      <actor>Rafael Sardão</actor>
-      <actor>Juliana Knust</actor>
-      <actor>Flávio Galvão</actor>
+      <actor>Andréia Sadi</actor>
     </credits>
     <date>2019</date>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515214500 -0300" stop="20190515223000 -0300" channel="RECORD">
-    <title lang="pt">Jornal da Record</title>
-    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+  <programme start="20190519160000 -0300" stop="20190519160500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190515223000 -0300" stop="20190515230000 -0300" channel="RECORD">
-    <title lang="pt">Power Couple Brasil 4ª Temp</title>
-    <desc lang="pt">Nesta edição, 13 casais disputarão um prêmio total que pode superar R$ 1 milhão. Para isso, marido e esposa precisarão confiar um no outro e realizar apostas de até R$ 40 mil(n)</desc>
-    <credits>
-      <actor>Gugu Liberato</actor>
-    </credits>
-    <date>2019</date>
+  <programme start="20190519160500 -0300" stop="20190519170000 -0300" channel="Globo">
+    <title lang="pt">Via Brasil</title>
+    <desc lang="pt">Uma viagem pelo país através de reportagens sobre natureza, história, arte, culinária e cultura de cada região(n)</desc>
     <rating system="BR">
-      <value>9+</value>
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519170000 -0300" stop="20190519170500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519170500 -0300" stop="20190519173000 -0300" channel="Globo">
+    <title lang="pt">Fatos e Versões</title>
+    <desc lang="pt">Cristiana Lôbo recebe, no estúdio, jornalistas renomados de jornais e revistas para detalhar os principais temas da semana em Brasília, revelando bastidores na política, na economia e no Judiciário(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519173000 -0300" stop="20190519180000 -0300" channel="Globo">
+    <title lang="pt">Arquivo N</title>
+    <desc lang="pt">Um trabalho minucioso de pesquisa sobre fatos e pessoas que marcaram a história num programa com imagens de arquivo inesquecíveis e emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519180000 -0300" stop="20190519183000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519183000 -0300" stop="20190519190000 -0300" channel="Globo">
+    <title lang="pt">Fernando Gabeira</title>
+    <desc lang="pt">Um mosaico que reflete a imagem do Brasil. Fernando Gabeira vai a lugares diferentes e trata de temas singelos ou espinhosos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519190000 -0300" stop="20190519190500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519190500 -0300" stop="20190519200000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Painel</title>
+    <desc lang="pt">O programa recebe filósofos, cientistas políticos, diplomatas, empresários e sociólogos e aprofunda os temas de relevância da semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519200000 -0300" stop="20190519203000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 20h - Ao Vivo</title>
+    <desc lang="pt">Apresentado por Leilane Neubarth, o jornal da GloboNews - edição das 18 horas - leva até o assinante as principais notícias do dia no Brasil e no mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519203000 -0300" stop="20190519210000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Especial</title>
+    <desc lang="pt">Política - Antes das eleições do ano passado a equipe da GloboNews viajou pelas cinco regiões do Brasil pra falar da importância das eleições para deputado e senador(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519210000 -0300" stop="20190519210500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias</title>
+    <desc lang="pt">Um resumo das principais notícias do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519210500 -0300" stop="20190519213000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Internacional</title>
+    <desc lang="pt">Uma conversa sobre os principais assuntos internacionais da semana, irreverente, mas sempre com muita informação(n)</desc>
+    <credits>
+      <actor>Dony De Nuccio</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519213000 -0300" stop="20190519220000 -0300" channel="Globo">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
+    <desc lang="pt">Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519220000 -0300" stop="20190519223000 -0300" channel="Globo">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519223000 -0300" stop="20190519230000 -0300" channel="Globo">
+    <title lang="pt">Sem Fronteiras</title>
+    <desc lang="pt">O Sem Fronteiras combina reportagem e análise para mostrar o impacto dos principais assuntos internacionais na vida das pessoas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190519230000 -0300" stop="20190520000000 -0300" channel="Globo">
+    <title lang="pt">Manhattan Connection</title>
+    <desc lang="pt">Informação diferenciada sobre os principais assuntos da semana, fora do óbvio e sempre com uma dose de irreverência e bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
     </rating>
   </programme>
 </tv>
