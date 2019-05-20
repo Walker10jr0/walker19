@@ -1,132 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="RECORD">
-    <display-name lang="pt">RECORD</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="SESC TV [Brazil]">
+    <display-name lang="pt">SESC TV [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="FX">
-    <display-name lang="pt">FX</display-name>
-    <url>http://www.hagah.com.br</url>
+  <channel id="Shoptime [Brazil]">
+    <display-name lang="pt">Shoptime [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Fox">
-    <display-name lang="pt">Fox</display-name>
-    <url>http://www.hagah.com.br</url>
+  <channel id="SIC International [Brazil]">
+    <display-name lang="pt">SIC International [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20190519003000 -0300" stop="20190519011500 -0300" channel="RECORD">
-    <title lang="pt">Chicago P.D.: Proximidade Emocional</title>
-    <desc lang="pt">A Inteligência trabalha para achar o culpado por trás do incêndio no armazém, que deixou a filha de Olinsky lutando por sua vida(n)</desc>
-    <credits>
-      <director>Reza Tabrizi</director>
-      <actor>Jason Beghe</actor>
-      <actor>Jon Seda</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Brian Tee</actor>
-      <actor>Amy Morton</actor>
-      <actor>Li Jun Li</actor>
-    </credits>
-    <date>2017</date>
-    <episode-num system="onscreen">S4 E16</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20190519011500 -0300" stop="20190519021500 -0300" channel="RECORD">
-    <title lang="pt">Fala que eu te Escuto</title>
-    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD)(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190519021500 -0300" stop="20190519031500 -0300" channel="RECORD">
-    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190519031500 -0300" stop="20190519060000 -0300" channel="RECORD">
-    <title lang="pt">Programação IURD</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190519060000 -0300" stop="20190519070000 -0300" channel="RECORD">
-    <title lang="pt">Nosso Tempo</title>
-    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas(n)</desc>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190519070000 -0300" stop="20190519080000 -0300" channel="RECORD">
-    <title lang="pt">Santo Culto em seu Lar</title>
-    <desc lang="pt">Pregações abordando um tema específico, discutindo sempre em base de texto bíblico(n)</desc>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190519080000 -0300" stop="20190519090000 -0300" channel="RECORD">
-    <title lang="pt">Programa do Templo</title>
-    <desc lang="pt">Programa religioso, inspirado em fundamentações da Igreja Universal do Reino de Deus(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190519090000 -0300" stop="20190519100000 -0300" channel="RECORD">
-    <title lang="pt">Record Kids - Pica Pau</title>
-    <desc lang="pt">As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190519100000 -0300" stop="20190519110000 -0300" channel="RECORD">
-    <title lang="pt">Record Kids - Todo Mundo Odeia o Chris</title>
-    <desc lang="pt">As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca(n)</desc>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190519110000 -0300" stop="20190519124500 -0300" channel="RECORD">
-    <title lang="pt">Record Kids - Todo Mundo Odeia o Chris</title>
-    <desc lang="pt">As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca(n)</desc>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190519124500 -0300" stop="20190519154500 -0300" channel="RECORD">
-    <title lang="pt">Domingo Show</title>
-    <desc lang="pt">Domingo Show é uma mistura de jornalismo e entretenimento. Você pode acompanhar as principais notícias do Brasil, além de conhecer histórias emocionantes de superação e personagens curiosos(n)</desc>
-    <credits>
-      <director>Rafael Perantunes</director>
-      <actor>Geraldo Luis</actor>
-    </credits>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190519154500 -0300" stop="20190519194500 -0300" channel="RECORD">
-    <title lang="pt">Hora do Faro</title>
-    <desc lang="pt">Faro recebe convidados que superaram muitas dificuldades para dar carinho e atenção àqueles que não tinham e, ainda, um casal que se adora, mas precisa superar algumas barreiras para ficar junto(n)</desc>
-    <credits>
-      <actor>Rodrigo Faro</actor>
-    </credits>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190519194500 -0300" stop="20190519231500 -0300" channel="RECORD">
-    <title lang="pt">Domingo Espetacular</title>
-    <desc lang="pt">Em formato de revista eletrônica semanal, o programa apresenta um panorama geral dos principais acontecimentos que marcaram a semana, além de reportagens exclusivas(n)</desc>
-    <credits>
-      <actor>Paulo Henrique Amorim</actor>
-      <actor>Janine Borba e Thalita Oliveira</actor>
-    </credits>
-    <date>2004</date>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
+  <channel id="Sony [Brazil]">
+    <display-name lang="pt">Sony [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPACE [Brazil]">
+    <display-name lang="pt">SPACE [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
 </tv>
